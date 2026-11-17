@@ -1,7 +1,6 @@
 ### pstanton237
 
-Fixes and small features for the open-source tools I use every day:
-agent tooling, terminals, and cloud infrastructure.
+Fixes and small features for the open-source tools I use every day
 
 #### Agent tooling (Pi ecosystem)
 - [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents) — fold the async widget with a header click
