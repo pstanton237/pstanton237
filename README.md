@@ -9,7 +9,7 @@
 - chem/pi-claude-code-provider: [fix: validate Apple Silicon and account-selected model defaults](https://github.com/chem/pi-claude-code-provider/pull/2) · 2026-09-05
 - nicknisi/pi-extensions: [fix(recap): support extension-registered providers](https://github.com/nicknisi/pi-extensions/pull/120) · 2026-09-04
 - vectorize-io/hindsight: [fix(coding-agents): find Claude sessions for underscore paths](https://github.com/vectorize-io/hindsight/pull/3732) · 2026-08-24
+- stablyai/orca: [fix(menu): restore paste in macOS native dialogs](https://github.com/stablyai/orca/pull/12645) · 2026-08-06
 - manaflow-ai/cmux: [Fix copy-mode vim keys swallowed under non-ASCII input sources (Korean, Japanese Kana, Zhuyin)](https://github.com/manaflow-ai/cmux/pull/5292) · 2026-06-03
 - illegalstudio/lazyagent: [feat: add config-based CWD substring filter for session exclusion](https://github.com/illegalstudio/lazyagent/pull/31) · 2026-05-13
-- alanhe421/alfred-workflows: [fix: support attributedBody for macOS Ventura and later](https://github.com/alanhe421/alfred-workflows/pull/452) · 2026-05-01
 <!-- merged:end -->
