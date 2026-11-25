@@ -1,5 +1,6 @@
 #### Recently merged
 <!-- merged:start -->
+- noguerol/antiloop: [feat: allow hiding the antiloop status without disabling detection](https://github.com/noguerol/antiloop/pull/2) · 2026-11-25
 - championswimmer/pi-subagent-manager: [fix: handle Pi 1.2 custom turns without a prompt](https://github.com/championswimmer/pi-subagent-manager/pull/61) · 2026-10-14
 - eiei114/pi-model-fallback: [fix: continue fallback requests without replaying the user prompt](https://github.com/eiei114/pi-model-fallback/pull/90) · 2026-10-12
 - yukikisaku/pi-agent-status: [fix(core): name sessions from expanded skill tasks](https://github.com/yukikisaku/pi-agent-status/pull/2) · 2026-10-01
@@ -11,5 +12,4 @@
 - vectorize-io/hindsight: [fix(coding-agents): find Claude sessions for underscore paths](https://github.com/vectorize-io/hindsight/pull/3732) · 2026-08-24
 - stablyai/orca: [fix(menu): restore paste in macOS native dialogs](https://github.com/stablyai/orca/pull/12645) · 2026-08-06
 - manaflow-ai/cmux: [Fix copy-mode vim keys swallowed under non-ASCII input sources (Korean, Japanese Kana, Zhuyin)](https://github.com/manaflow-ai/cmux/pull/5292) · 2026-06-03
-- illegalstudio/lazyagent: [feat: add config-based CWD substring filter for session exclusion](https://github.com/illegalstudio/lazyagent/pull/31) · 2026-05-13
 <!-- merged:end -->
